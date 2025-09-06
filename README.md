@@ -1,4 +1,19 @@
-# Gemini CLI
+# BOOKTALK!
+
+Built on Gemini CLI.
+
+All the insights from your favorite book, without the hours spent reading it.
+
+Our goal was to turn a book into a interactive "choose your own adventure" experience using the Gemini CLI.
+
+You supply a book (as an .md file), and Gemini comes up with prompts and suggestions to help you understand the material without needing to read the book cover to cover!
+
+
+
+Run with the ./booktalk file in the root folder.
+
+
+
 
 [![Gemini CLI CI](https://github.com/google-gemini/gemini-cli/actions/workflows/ci.yml/badge.svg)](https://github.com/google-gemini/gemini-cli/actions/workflows/ci.yml)
 [![Version](https://img.shields.io/npm/v/@google/gemini-cli)](https://www.npmjs.com/package/@google/gemini-cli)
